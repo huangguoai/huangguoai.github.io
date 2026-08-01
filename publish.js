@@ -42,7 +42,7 @@ var urls=[
     'gunskjtnt.com/',
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://huangguoai.cc";
 
 var newestUrls = [];
 
@@ -55,9 +55,9 @@ var otherUrls = [
 	'https://huangguoai.github.io/',
 ];
 var foreverUrls = [
-	  'https://huangguoai.net',
+	  'https://huangguoai.com',
 	JumpPage,
-	'https://huangguoai.com',
+	'https://huangguoai.net',
 	
 ];
 var notices = [
