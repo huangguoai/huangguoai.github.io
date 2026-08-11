@@ -42,7 +42,7 @@ var urls=[
     'ysyiltesr.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://huangguoai.cc";
+var JumpPage="";
 
 var newestUrls = [];
 
@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://huangguoai.com',
 	JumpPage,
-	'https://huangguoai.net',
+	'https://huangguoai.ai',
 	
 ];
 var notices = [
