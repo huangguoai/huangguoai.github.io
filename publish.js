@@ -53,6 +53,7 @@ for(var i =0;i<urls.length*3;i++){
 var otherUrls = [
 	'https://huangguoai.pages.dev',
 	'https://huangguoai.github.io/',
+	'https://gitlab.com/huangguo/huangguo',
 ];
 var foreverUrls = [
 	  'https://huangguoai.com',
