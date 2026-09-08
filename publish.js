@@ -140,6 +140,10 @@ window.onload = function () {
     var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问黄果短剧'});
     mainElem.appendChild(newestFieldElem);
 
+	// appurl
+    var otherFieldElem = createFieldElem({title: '黄果官方APP下载地址', items: otherUrls});
+    mainElem.appendChild(otherFieldElem);
+	
     // other urls
     var otherFieldElem = createFieldElem({title: '由于风控原因，网址经常被墙<br />务必保存下面所有地址发布页', items: otherUrls});
     mainElem.appendChild(otherFieldElem);
