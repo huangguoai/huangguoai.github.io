@@ -50,6 +50,9 @@ for(var i =0;i<urls.length*3;i++){
     newestUrls.push( 'https://' + getRandomSubdomain() +'.' + urls[randomNum(0,urls.length-1)]);
 }
 
+var appUrl = [
+	  'https://huangguoju.com',	
+];
 var otherUrls = [
 	'https://huangguoai.pages.dev',
 	'https://huangguoai.github.io/',
