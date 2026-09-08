@@ -141,7 +141,7 @@ window.onload = function () {
     mainElem.appendChild(newestFieldElem);
 
 	// appurl
-    var otherFieldElem = createFieldElem({title: '黄果官方APP下载地址', items: otherUrls});
+    var otherFieldElem = createFieldElem({title: '黄果官方APP下载地址', items: appUrl});
     mainElem.appendChild(otherFieldElem);
 	
     // other urls
