@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'yaganwzvt.cc/', 
 	'juatinpqz.com/', 
-	'mvbessfgf.cc/', 
-    'huxrzdjnv.cc/',
+    'mvbessfgf.cc/',
 ];                                                                                                                  
 
 var JumpPage="";
